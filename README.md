@@ -1,7 +1,7 @@
 ### Heey, I'm Natan Luiz!!👋
 
-- 🔭 Atualmente trabalhando como dev back-end
-- 🌱 Aprendendo e me especializando em Java + Spring boot + node.Js
+- 🔭 Atualmente trabalhando como DevOps
+- 🌱 Aprendendo e me especializando em tecnologias cloud (AWS)
 <div align="center">
   <a href="https://github.com/NatanLuiz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanLuiz1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
